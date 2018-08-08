@@ -97,7 +97,7 @@
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.5"
+    "lodash": ^4.17.5"
   },
   "devDependencies": {
     "bitcore-build-mec": "git://github.com/LIMXTEC/bitcore-build-mec#master",
